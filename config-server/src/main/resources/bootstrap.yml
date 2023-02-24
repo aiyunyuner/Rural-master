@@ -1,0 +1,2 @@
+encrypt:
+  key: example #对称性加密方式
